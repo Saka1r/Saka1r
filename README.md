@@ -13,4 +13,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+---
+### :fire: Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saka1r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
