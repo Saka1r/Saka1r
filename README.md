@@ -19,7 +19,7 @@
   </h1>
 
   <!-- Описание -->
-  <p style="text-align: center;">I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdtdXh3YTY4ODBnNHpkNTB4djEzMHczenhmZGo1YTBoejNpdTFzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chu9apIdbJ2F32QBxZ/giphy.gif" width="30">.</p>
+  <p style="text-align: center;">I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMzZmhkYWszbGllcW8waXJ3cnpxeTNlMW56ZmU2bXFoYnV3aXpubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM76y8bmndqdOFfCuO/giphy.gif" width="30">.</p>
 
   <!-- Статистика -->
   <hr/>
