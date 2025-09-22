@@ -19,7 +19,7 @@
   </h1>
 
   <!-- Описание -->
-  <p style="text-align: center;">I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
+  <p style="text-align: center;">I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. Привет из России ❤️🇷🇺❤️</p>
 
   <!-- Статистика -->
   <hr/>
