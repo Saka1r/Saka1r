@@ -21,14 +21,14 @@
   <!-- Описание -->
   <p style="text-align: center;">I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. Привет из России ❤️🇷🇺❤️</p>
 
-  <!-- Статистика -->
+  <!-- Статистика 
   <hr/>
-  <h3 style="text-align: center;">🔥 Stats:</h3>
+  <h3 style="text-align: center;">🔥 Stats:</h3>-->
   
   <!-- Блок с языками-->
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
+  <!--<div style="display: flex; justify-content: center; margin-top: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration: none;">
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Saka1r&layout=compact&theme=vision-friendly-dark' alt='Top Languages' style='border-radius: 8px;'/>
     </a>
-  </div>
+  </div>-->
 </div>
