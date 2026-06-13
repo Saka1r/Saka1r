@@ -37,9 +37,9 @@
   </div>
 
   <!-- Inspired by -->
-  <p style="margin-top: 20px; font-style: italic; color: #888;">
+  <!--<p style="margin-top: 20px; font-style: italic; color: #888;">
     Inspired by K. Thompson, D. Ritchie, L. Torvalds, R. Stallman, T. Davis.
-  </p>
+  </p> -->
 
   <!-- Stats -->
   <hr style="margin: 30px 0;"/>
