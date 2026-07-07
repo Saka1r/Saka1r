@@ -42,7 +42,7 @@
   </p> -->
 
   <!-- Stats -->
-  <hr style="margin: 30px 0;"/>
+  <!--<hr style="margin: 30px 0;"/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration: none;">
       <img src='https://github-readme-stats.vercel.app/api?username=Saka1r&show_icons=true&theme=vision-friendly-dark&hide_border=true' alt='GitHub Stats' style='border-radius: 8px;'/>
@@ -50,5 +50,5 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration: none;">
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Saka1r&layout=compact&theme=vision-friendly-dark&hide_border=true' alt='Top Languages' style='border-radius: 8px;'/>
     </a>
-  </div>
+  </div> -->
 </div>
