@@ -3,19 +3,13 @@
 </div>
 
 ```console
-sakair@github:~$ git log --oneline --author=sakair staging-testing
-aa5a27bcd811 staging: sm750fb: rename p_PLL to pll in sm750_format_pll_reg()
-```
-
-
-```console
 sakair@github:~$ cat kernel.log
 [2026-11-20] staging: sm750fb: rename p_PLL to pll
 [2026-11-20] merged into staging-testing (maintainer: Greg Kroah-Hartman)
 ```
 
 → 
-[lore.kernel.org](https://lore.kernel.org/r/20261111074816.27647-1-sakairlinux@gmail.com) · [staging-testing](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-testing&id=aa5a27bcd8118ffdd4c5bbf3a2068135571b257d) — my first Linux kernel patch, at 17.
+[lore.kernel.org](https://lore.kernel.org/r/20261111074816.27647-1-sakairlinux@gmail.com) · [staging-testing](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-testing&id=aa5a27bcd8118ffdd4c5bbf3a2068135571b257d) — my first Linux kernel patch...
 
 ```console
 sakair@github:~$ ls ~/projects
