@@ -1,21 +1,36 @@
-<div style="text-align: center;">
-  <!-- Header GIF -->
-  <div id="header" style="margin-bottom: 20px;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmZnN6dGZjdXlwY2YyM3NqaDUzanN0NjZjbWVhc2N1dTIxMnpoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="200" alt="Header GIF"/>
-  </div>
+<div align="center">
+  <img src="assets/banner.svg" width="820" alt="sakair@github:~$ whoami"/>
+</div>
 
-  <!-- Badges -->
-  <div id="badges" style="margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&color=blue" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue" alt="C++ Badge"/>
-    <img src="https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&logoColor=white&color=blue" alt="C Badge"/>
-    <img src="https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black" alt="Rust Badge"/>
-  </div>
+```console
+sakair@github:~$ cat kernel.log
+[2026-11-20] staging: sm750fb: rename p_PLL to pll
+[2026-11-20] merged into staging-testing (maintainer: Greg Kroah-Hartman)
+```
 
-  <!-- Intro -->
-  <h2 style="margin-bottom: 8px;">Svyatoslav / sakair</h2>
-  <p style="margin-top: 0;">
-    From Russia. Building things, breaking things, learning how they work under the hood.
-  </p>
+→ [patch on lore.kernel.org](https://lore.kernel.org/all/MESSAGE-ID/) — my first Linux kernel patch, at 17.
 
- 
+```console
+sakair@github:~$ ls ~/projects
+```
+
+- [`Jarvis/`](https://github.com/Saka1r/Jarvis) — fully offline voice assistant: Vosk STT → llama.cpp → XTTS v2. Plugin system, zero cloud.
+- [`chip8-rs/`](https://github.com/Saka1r/School_project_cpu) — CHIP-8 emulator in Rust, built to understand how CPUs work.
+- [`brainfuck/`](https://github.com/Saka1r/brainfuck) — interpreter in hand-written x86_64 NASM. No libc, pure Linux syscalls.
+<!-- - [`Hariko/`](https://github.com/Saka1r/Hariko) — offline media pipeline: audio/video → Whisper → text summary. -->
+- [`fu/`](https://github.com/Saka1r/fu) — VCS internals from scratch in C.
+- [`nuta/`](https://github.com/Saka1r/nuta) — Terminal code editor. <!-- TODO: одна строка, что это -->
+
+```console
+sakair@github:~$ cat now.txt
+```
+
+- next patches to `drivers/staging` — sm750fb cleanup
+- building `nuta`
+
+```console
+sakair@github:~$ cat contact.txt
+```
+
+[portfolio](https://saka1r.github.io/portfolio/) · [email](mailto:sakairlinux@gmail.com) · [telegram](https://t.me/sakairCode)
+
