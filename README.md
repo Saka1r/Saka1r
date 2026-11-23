@@ -9,7 +9,7 @@ sakair@github:~$ cat kernel.log
 ```
 
 → 
-[lore.kernel.org](https://lore.kernel.org/r/20261111074816.27647-1-sakairlinux@gmail.com) · [staging-testing](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-testing&id=aa5a27bcd8118ffdd4c5bbf3a2068135571b257d) — my first Linux kernel patch...
+[lore.kernel.org](https://lore.kernel.org/r/20261111074816.27647-1-sakairlinux@gmail.com) · [staging-next](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-next&id=aa5a27bcd8118ffdd4c5bbf3a2068135571b257d) — my first Linux kernel patch...
 
 ```console
 sakair@github:~$ ls ~/projects
